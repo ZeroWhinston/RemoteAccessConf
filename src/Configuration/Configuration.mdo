@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Configuration xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="2c4dd8ab-24ef-4923-a181-a01428b0b298">
+  <name>УдаленныйДоступ</name>
+  <synonym>
+    <key>ru</key>
+    <value>Удаленный доступ</value>
+  </synonym>
+  <containedObjects classId="9cd510cd-abfc-11d4-9434-004095e12fc7" objectId="474dc020-e946-4ced-ab6a-1e633e376491"/>
+  <containedObjects classId="9fcd25a0-4822-11d4-9414-008048da11f9" objectId="f1ccf5f0-8ce1-4141-b107-aee9a514bd44"/>
+  <containedObjects classId="e3687481-0a87-462c-a166-9f34594f9bba" objectId="cc2bfa81-a9a1-4c52-97c0-a9acfdde5a72"/>
+  <containedObjects classId="9de14907-ec23-4a07-96f0-85521cb6b53b" objectId="afa8e3ac-b45b-4e01-9c6a-9e13a3381c4e"/>
+  <containedObjects classId="51f2d5d8-ea4d-4064-8892-82951750031e" objectId="7d4a15a7-dee1-4883-a209-c9c438346532"/>
+  <containedObjects classId="e68182ea-4237-4383-967f-90c1e3370bc7" objectId="13860d26-16a8-428b-8018-7077b4c04ace"/>
+  <containedObjects classId="fb282519-d103-4dd3-bc12-cb271d631dfc" objectId="91cd7c7e-094c-4c19-8a52-c0826fac0cb7"/>
+  <configurationExtensionCompatibilityMode>8.3.21</configurationExtensionCompatibilityMode>
+  <defaultRunMode>ManagedApplication</defaultRunMode>
+  <usePurposes>PersonalComputer</usePurposes>
+  <scriptVariant>Russian</scriptVariant>
+  <vendor>ООО &quot;Сервис-Ростов&quot;</vendor>
+  <version>1.0</version>
+  <usedMobileApplicationFunctionalities>
+    <functionality>
+      <use>true</use>
+    </functionality>
+    <functionality>
+      <functionality>OSBackup</functionality>
+      <use>true</use>
+    </functionality>
+  </usedMobileApplicationFunctionalities>
+  <defaultLanguage>Language.Русский</defaultLanguage>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <objectAutonumerationMode>NotAutoFree</objectAutonumerationMode>
+  <modalityUseMode>DontUse</modalityUseMode>
+  <synchronousPlatformExtensionAndAddInCallUseMode>DontUse</synchronousPlatformExtensionAndAddInCallUseMode>
+  <compatibilityMode>8.3.21</compatibilityMode>
+  <languages uuid="df5e485b-8249-42c5-8795-f42173f60ec7">
+    <name>Русский</name>
+    <synonym>
+      <key>ru</key>
+      <value>Русский</value>
+    </synonym>
+    <languageCode>ru</languageCode>
+  </languages>
+</mdclass:Configuration>
