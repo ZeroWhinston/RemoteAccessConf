@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="a791a44b-9b37-4d32-a35b-247076eb77ac">
+  <producedTypes>
+    <objectType typeId="9ebc0ec5-b8c6-4d0f-a5fc-e5eb77ebb959" valueTypeId="0d2eaacc-e575-46de-b0b2-f6475ba73c83"/>
+    <refType typeId="820226da-fe3c-4e4a-8e65-309bf1bf0867" valueTypeId="354aa36d-5b00-465a-9ea0-f2a14b6e39d3"/>
+    <selectionType typeId="8f432ade-2054-4f4f-8658-787105a11647" valueTypeId="281efe94-1280-41a4-ad8a-ad9fa0f71a2a"/>
+    <listType typeId="b7f373d0-6ffc-4712-873e-180594b8ef76" valueTypeId="9d81a250-b764-48ce-9968-41ae179a213c"/>
+    <managerType typeId="794cbfbb-abda-46c9-97de-2fd7016679e0" valueTypeId="3af51eb2-4a40-4c94-9c9b-e684720c0830"/>
+  </producedTypes>
+  <name>Точки</name>
+  <synonym>
+    <key>ru</key>
+    <value>Точки</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Точки.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Точки.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>25</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
